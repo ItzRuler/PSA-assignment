@@ -1,2 +1,1 @@
-# PSA-assignment
-The PSA assignment that I need to submit for school.
+This essentially is for a project that I am submitting for school
